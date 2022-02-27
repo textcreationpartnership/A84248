@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from Plymouth and Devonshire. Sent in a letter from the deputy lieutenants to the House of Commons, Decemb. 8. wherein is declated [sic] the full proceedings of the cavaleirs against the Parliament forces in the said county, from the 4. of Decemb. to the 9. 1642. Also a full relation of the besieging of Plymouth, by the Lord Grandison, the L. Digby, and Commissarie Wilmot, with 9000. men, and how they were beaten off by the Parliament forces that were within the town, killing about 850. the Lord Digbie being shot through the shoulder, with a musquet bullet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84248</idno>
+            <idno type="STC">Wing E3752</idno>
+            <idno type="STC">Thomason E129_30</idno>
+            <idno type="STC">ESTC R16646</idno>
+            <idno type="EEBO-CITATION">99860070</idno>
+            <idno type="PROQUEST">99860070</idno>
+            <idno type="VID">156290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156290)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from Plymouth and Devonshire. Sent in a letter from the deputy lieutenants to the House of Commons, Decemb. 8. wherein is declated [sic] the full proceedings of the cavaleirs against the Parliament forces in the said county, from the 4. of Decemb. to the 9. 1642. Also a full relation of the besieging of Plymouth, by the Lord Grandison, the L. Digby, and Commissarie Wilmot, with 9000. men, and how they were beaten off by the Parliament forces that were within the town, killing about 850. the Lord Digbie being shot through the shoulder, with a musquet bullet.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 10. Printed for H. Blundoll,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bristol, John Digby, --  Earl of, 1580-1654 --  Early works to 1800.</term>
+               <term>Grandison, William Villiers, --  Viscount, 1614-1643 --  Early works to 1800.</term>
+               <term>Rochester, Henry Wilmot, --  Earl of, 1612?-1658 --  Early works to 1800.</term>
+               <term>Plymouth (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156290:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull NEWES FROM <hi>Plymouth</hi> and <hi>Devonſhire.</hi>
+            </p>
+            <p>Sent in a Letter from the Deputy Lieute<g ref="char:EOLhyphen"/>nants to the Houſe of Commons. <hi>Decemb.</hi> 8. Where<g ref="char:EOLhyphen"/>in is declared the full proceedings of the Cava<g ref="char:EOLhyphen"/>leirs againſt the Parliament Forces in the ſaid County, from the 4. of <hi>Decemb.</hi> to the 9. 1642.</p>
+            <p>Alſo a full Relation of the beſieging of <hi>Plymouth,</hi> by the Lord <hi>Grandiſon,</hi> the L. <hi>Digby,</hi> and <hi>Commiſſarie Wilmot,</hi> with 9000. men, and how they were beaten off by the parliament for<g ref="char:EOLhyphen"/>ces that were within the Town, killing about 850. the Lord <hi>DIGBIE</hi> being ſhot through the ſhoul<g ref="char:EOLhyphen"/>der, with a musquet bullet.</p>
+            <p>
+               <hi>Decemb.</hi> 10. Printed for <hi>H. Blundoll.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156290:2"/>
+            <pb facs="tcp:156290:2"/>
+            <head>THE RELATION OF The great Overthrow given to the Lord <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hune, the Lord Grandiſon, the Lord Rivers, the Lord Digby, and Com<g ref="char:EOLhyphen"/>miſſary Wilmot.</hi>
+            </head>
+            <head type="sub">December the 8, 1642.</head>
+            <head type="sub">By the Renowned and Heroick Champions, the Volunteers of <hi>Plymouth,</hi> being in number <hi>2000</hi> ageinſt the aforenamed Per<g ref="char:EOLhyphen"/>ſecu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors with <hi>9000.</hi>
+            </head>
+            <p>UPon the 7. of this month, the Lord <hi>Grandiſon</hi> advanced from the Kings Army with 3000. horſe and foot, with an
+<pb facs="tcp:156290:3"/>intent to march againſt the town of <hi>Marl<g ref="char:EOLhyphen"/>borow</hi> in <hi>Wilt-ſhire,</hi> but having received a Letter from the L. <hi>Mohune,</hi> concerning the preſent eſtate of <hi>Plymouth,</hi> he changed his Reſolution, and marched towards the ſaid Town, to joyn his Forces with the Lord <hi>Mohune, the Lord Digby, Commiſſary Wilmot, &amp;c.</hi>
+            </p>
+            <p>But by reaſon of his long and tedious <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <hi>Wedneſday</hi> night, he lay ſhort of the o<g ref="char:EOLhyphen"/>ther Forces about 8. miles, on Thurſday morning.</p>
+            <p>But towards 12. of the clock the ſame day he got to the Lord <hi>Mohune,</hi> where he joyned his Forces with him, and the reſt of his Confederates, and about three of the clock in the Afternoon they began to move forward toward <hi>Plimouth,</hi> and about five of the clock they came within one mile of the ſaid Town.</p>
+            <p>But the Forces that were there billeted having information of their comming, pre<g ref="char:EOLhyphen"/>pared a Supper for them, and mounted their Ordnance, ſetting their men in battle array, and in a very good poſture for their
+<pb facs="tcp:156290:3"/>own defence, and ſo ſoon as the Cavale<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs made their approach neerer the Town, the <hi>Plymouth</hi> Forces began to welcome them, ſending them a great Charger full of black plums, which plums were as bad as poyſon to thoſe that taſted of them; for they made ſuch a ſlanghter amongſt the Kings Army, that many hundreds of them lay dead before the Town Walls.</p>
+            <p>The Lord Digby and Commiſſary Wil<g ref="char:EOLhyphen"/>mot ſeeing this, with much futy and vio<g ref="char:EOLhyphen"/>lence they adventured up with their For<g ref="char:EOLhyphen"/>ces, and gave a deſperate charge againſt the Parliament-Forces, but did very little exe<g ref="char:EOLhyphen"/>cution, and although they were fix to one, yet our men gave them the foyl, obtaining a happy Victory, and putting neer upon 9. hundred and fifty to the ſword, with the loſſe of one hundred and twenty men, be<g ref="char:EOLhyphen"/>ſides the Lord <hi>Digby</hi> is dangerouſly woun<g ref="char:EOLhyphen"/>ded, being ſhot through the ſhoulder with a bullet.</p>
+            <p>The Lord <hi>Mohune</hi> and the reſt of the Cavaleers are retreated 20. miles from <hi>Ply<g ref="char:EOLhyphen"/>mouth,</hi> and it is very probable hee will have
+<pb facs="tcp:156290:4"/>but little ſtomack to come thither againe, by reaſon they taſted of ſuch hard fare; yet if they do come to make another attempt, the plymouth forces are reſolved to pre<g ref="char:EOLhyphen"/>lent unto them the like plums which they taſted of before.</p>
+            <p>The like proceedings hath bin in <hi>Che<g ref="char:EOLhyphen"/>ſhire,</hi> between the Lord <hi>Rivers</hi> and his Ad<g ref="char:EOLhyphen"/>herents, againſt the well-affected party of that County, as it was declared in a Letter to Sir <hi>William Brewerton,</hi> a member of the Houſe of Commons, intimating that the L. <hi>Rivers</hi> having raiſed an Army of Papiſts and diſaffected proteſtants is very active in that County to put in execution the <hi>Com<g ref="char:EOLhyphen"/>miſſion of Array,</hi> and plunders and pillages all thoſe that refuſe to yeeld obedience to his illegall Commands.</p>
+            <p>And therfore the County deſires, that the Parliament will ſpeedily take order for ſending ſome Commanders unto them, for a great part of that County ſtands very well affected to the Parliament, and are re<g ref="char:EOLhyphen"/>ſolved to ſpend their lives and fortunes in this cauſe.</p>
+            <pb facs="tcp:156290:4"/>
+            <p> Whereupon the Parliament have ordai<g ref="char:EOLhyphen"/>ned that ſome ſpeedy aid ſhall be ſent un<g ref="char:EOLhyphen"/>to them, and that they ſhall aſſociate them<g ref="char:EOLhyphen"/>ſelues together, to defend themſelves from tyranny and oppreſſion, and to maintain the peace of that County againſt all that did oppoſe them.</p>
+            <p>And it is credibly informed, that upon Tueſday laſt there was a generall meeting of the well-affected Proteſtants, who ſtood in oppoſition againſt the Lord <hi>Rivers</hi> and his Cavaleers, and at the laſt gave them a Charge, killing about 40. of his men.</p>
+            <p>Whereupon the L. Rivers muſtred his Forces together, placing them in battle ar<g ref="char:EOLhyphen"/>ray, and drawing them up to a head, and at the laſt wheeling about, and obtaining the wind, they charged againſt the Parliament Forces, but after one hours fight they were forced to retreat, by reaſon that two of our Troops of horſe broke in upon the L. <hi>Ri<g ref="char:EOLhyphen"/>vers</hi> left wing, breaking their Rankes and files, and bringing them to a moſt confuſed Order, killing 2. or 300, and putting the reſt to flight.</p>
+            <pb facs="tcp:156290:5"/>
+            <p> Upon Friday laſt, there was Letters came to the Houſe of Commons, directed to Mr. <hi>Speaker,</hi> out of <hi>Devonſhire,</hi> informing the houſe of the true eſtate of things in that County, and that the Cavaleers do excee<g ref="char:EOLhyphen"/>dingly plunder and ſpoyl that County, and that they are marching from <hi>Taveſtack</hi> to<g ref="char:EOLhyphen"/>ward <hi>Plymouth,</hi> and do threaten that Town but the Committee for the Militia being there, they have gotten ſome new forces in<g ref="char:EOLhyphen"/>to the Town, and are in a good poſture of defence.</p>
+            <p>Alſo the Deputy Lieutenants at Exceſter have raiſed three Regiments of the Tray<g ref="char:EOLhyphen"/>ned Bands of the adjacent Counties, and are reſolved to aid and aſſiſt Plymouth, The Parliament hath alſo made the E. of Stam<g ref="char:EOLhyphen"/>ford Generall of South-Wales, and his Son the young Lord Grey, Generall of <hi>Lieceſter ſhire, Darby-ſhire, and Lincoln-ſhire.</hi>
+            </p>
+            <p>
+               <hi>The Lords and Commons aſſembled in Parl. do declare, that all ſouldiers that do commit any offence contrary to their Orders ſhall be brought to condigne puniſhment, and that they may be ſe<g ref="char:EOLhyphen"/>verely proceeded againſt according to Law.</hi>
+            </p>
+         </div>
+         <trailer>FJNIS</trailer>
+      </body>
+   </text>
+</TEI>
